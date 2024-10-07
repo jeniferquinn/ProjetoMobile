@@ -21,7 +21,7 @@ utilizando Firebase como banco de dados. O aplicativo permite que os usuários n
 ## Instalação
 1. Clone o repositório:
 Copiar código
-git clone <link-do-repositorio>
+git clone <https://github.com/jeniferquinn/ProjetoMobile.git>
 2. Instale as dependências:
 npm install
 3. Configure o Firebase:
