@@ -6,8 +6,6 @@ import { Feather } from "@expo/vector-icons";
 import Entrar from './Entrar';
 import CriarConta from './CriarConta';
 
-
-
 const Drawer = createDrawerNavigator();
 
 function DrawerNavigator() {
