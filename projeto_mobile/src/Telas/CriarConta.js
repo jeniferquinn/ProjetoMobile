@@ -6,7 +6,7 @@ import { collection, addDoc } from "firebase/firestore"; // Importe as funções
 import { useNavigation } from '@react-navigation/native';
 
 function CriarConta() {
-    const navigation = useNavigation(); // Obtém a instância de navegação
+    const navigation = useNavigation();
 
     // Crie estados para os campos do formulário
     const [email, setEmail] = useState("");
